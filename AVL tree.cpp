@@ -17,7 +17,7 @@ public:
     }
 };
  
-/* AVL tree */
+/* AVL tree  init */
 template <class T>
 class AVLtree {
 public:
